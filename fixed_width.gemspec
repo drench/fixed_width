@@ -1,4 +1,5 @@
 # -*- encoding: utf-8 -*-
+require 'date'
 require_relative 'lib/fixed_width/version'
 
 Gem::Specification.new do |s|
